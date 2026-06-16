@@ -5,7 +5,10 @@ __pycache__/
 
 .env
 
-.vscode
+.vscode/
 
 results/*
+!results/.gitkeep
+
 figures/*
+!figures/.gitkeep
