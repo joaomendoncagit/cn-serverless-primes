@@ -178,7 +178,7 @@ Tempo interno da função: cerca de 0.5 ms
 
 A principal conclusão é que a computação dos números primos para n=1000 é muito rápida, mas a latência total observada pelo cliente é dominada pelo overhead da plataforma serverless, rede, API Gateway e cold start.
 
-Notas
+## Notas
 
 Os diretórios results/ e figures/ são ignorados pelo Git, exceto os ficheiros .gitkeep.
 
