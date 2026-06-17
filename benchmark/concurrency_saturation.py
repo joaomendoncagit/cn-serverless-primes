@@ -10,8 +10,8 @@ import aiohttp
 
 API_URL = os.getenv("API_URL")
 N = 1000
-CONCURRENCY_LEVELS = [1, 5, 10]
-OUTPUT_FILE = "results/concurrency_stable_n1000.csv"
+CONCURRENCY_LEVELS = [20, 50, 100]
+OUTPUT_FILE = "results/concurrency_saturation_n1000.csv"
 
 
 def load_env():
