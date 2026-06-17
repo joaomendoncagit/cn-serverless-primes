@@ -6,7 +6,7 @@ O objetivo deste projeto é implementar e avaliar uma função sem servidor que 
 
 ## Autor
 
-João Tiago Salvador Mendonça  
+João Mendonça  
 Mestrado em Engenharia Informática  
 Universidade da Beira Interior
 
