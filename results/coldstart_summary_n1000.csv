@@ -1,0 +1,3 @@
+label,count,mean_latency_ms,median_latency_ms,min_latency_ms,max_latency_ms,mean_function_time_ms
+cold_candidate,5,478.4898,485.95,406.0,512.388,0.5238
+warm_followup,5,284.55699999999996,281.424,197.187,383.548,0.5162

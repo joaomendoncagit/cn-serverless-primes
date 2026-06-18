@@ -9,9 +9,3 @@ __pycache__/
 
 *.zip
 response.json
-
-results/*
-!results/.gitkeep
-
-figures/*
-!figures/.gitkeep
